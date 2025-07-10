@@ -9,7 +9,7 @@ int main()
 
     std::cout << "************ CALCULATOR ************\n";
 
-    std::cout << "Ener either (+ - * /): ";
+    std::cout << "Enter either (+ - * /): ";
     std::cin >> op;
 
     std::cout << "Enter #1; ";
